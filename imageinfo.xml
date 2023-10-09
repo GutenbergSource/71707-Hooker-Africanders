@@ -1,0 +1,21 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/frontcover.jpg" filesize="333356" filedate="2023-09-25 19:49:50" width="996px" height="1440px"/>
+<image path="images/frontispiece.jpg" filesize="446139" filedate="2023-09-25 19:49:50" width="1440px" height="1050px"/>
+<image path="images/p048.jpg" filesize="368708" filedate="2023-09-25 19:49:50" width="952px" height="1314px"/>
+<image path="images/p072.jpg" filesize="376578" filedate="2023-09-25 19:49:50" width="1440px" height="944px"/>
+<image path="images/p088.jpg" filesize="183034" filedate="2023-09-25 19:49:50" width="732px" height="1090px"/>
+<image path="images/p096.jpg" filesize="374924" filedate="2023-09-25 19:49:50" width="1440px" height="948px"/>
+<image path="images/p112.jpg" filesize="105758" filedate="2023-09-25 19:49:50" width="719px" height="880px"/>
+<image path="images/p120.jpg" filesize="343276" filedate="2023-09-25 19:49:50" width="1440px" height="943px"/>
+<image path="images/p136.jpg" filesize="122088" filedate="2023-09-25 19:49:50" width="719px" height="878px"/>
+<image path="images/p152.jpg" filesize="356270" filedate="2023-09-25 19:49:50" width="1440px" height="929px"/>
+<image path="images/p168.jpg" filesize="213269" filedate="2023-09-25 19:49:50" width="739px" height="1053px"/>
+<image path="images/p176.jpg" filesize="377106" filedate="2023-09-25 19:49:50" width="1281px" height="1031px"/>
+<image path="images/p192.jpg" filesize="105165" filedate="2023-09-25 19:49:51" width="726px" height="875px"/>
+<image path="images/p208.jpg" filesize="375247" filedate="2023-09-25 19:49:51" width="1440px" height="926px"/>
+<image path="images/p224.jpg" filesize="168693" filedate="2023-09-25 19:49:51" width="819px" height="1090px"/>
+<image path="images/p240.jpg" filesize="383549" filedate="2023-09-25 19:49:51" width="1440px" height="938px"/>
+<image path="images/p264.jpg" filesize="365888" filedate="2023-09-25 19:49:51" width="1440px" height="940px"/>
+<image path="images/qr71707.png" filesize="330" filedate="2023-09-25 19:49:51" width="296px" height="296px"/>
+<image path="images/titlepage.png" filesize="41395" filedate="2023-09-25 19:49:51" width="845px" height="1440px"/>
+</images>
